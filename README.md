@@ -1,0 +1,1 @@
+This Jupyter Notebook can be used to determine the P2P amplitude of alanine EPR spectra then calculate the dose using the calibration curve created. Details of the code can be found in markdown within the notebook itself.
